@@ -1,2 +1,8 @@
-
+New Transaction
+______________________
+You send -560.9€ to Finanzamt Krefeld
+Date: 10/10/2000
+Payer: Max Mustermann
+IBAN: DE12 3456 7890 1234 5678 90
+Purpose: Tax
 
