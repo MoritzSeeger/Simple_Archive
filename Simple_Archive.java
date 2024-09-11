@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class Simple_Archive {
     public static void main(String[] args) {
-        String file_path_User_Data = "/Users/moritzseeger/Desktop/Archive/User_Data.txt";
-        String file_path_Expenses = "/Users/moritzseeger/Desktop/Archive/Expenses.txt";
+        String file_path_User_Data = "/Users/moritzseeger/Desktop/Archive/User_Data.txt"; //make sure to change the filepath on your computer to locate the right file
+        String file_path_Expenses = "/Users/moritzseeger/Desktop/Archive/Expenses.txt";    //make sure to change the filepath on your computer to locate the right file
         String resetColor = "\u001B[0m";
         String blueColor = "\u001B[34m";
 
